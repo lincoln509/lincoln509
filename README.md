@@ -31,14 +31,17 @@ graphiques du créole.
 - 📄 Zenodo (DOI) : [*`Alphabet Atomique Creole Livre - v1.2.0`*](https://doi.org/10.5281/zenodo.21540458)
 - 📄 ResearchGate : [*`Alphabet Atomique Creole Livre - v1.2.0`*](https://www.researchgate.net/publication/410865466_Pour_une_Rationalisation_Atomique_de_la_Graphie_Creole_Haitienne_-_De_la_Reforme_Orthographique_de_1979_a_l'Alphabet_Atomique_Creole_AAC?utm_source=twitter&rgutm_meta1=eHNsLTNUNndRY2grU1J4YzBqNlFnbTVIWi9xVENkMDBKbDVWMGpJd2F6dTlmZ3pKb0dTUjhKdkpJS3p2czJOYTlrNHdac2xpeUZ4WWRBaWY0MllmcnBaVStiZz0%3D)
 - 📄 HAL : *(lien en attente)*
+- 🔊 **Contribution [espeak-ng](https://github.com/espeak-ng/espeak-ng)** : refonte du dictionnaire de synthèse
+    vocale du créole haïtien (`dictsource/ht_rules`, `ht_list`) — orthographe 1979 fidèle, gestion des nasales,
+    des nombres et des emprunts.
 
-### 📚 HaitiLodyans
+### ![haiti_lodyans_normal.svg](haiti_lodyans_normal.svg) HaitiLodyans
 ***c'est un projet en cours de rédaction** — corpus de contes et récits (`lodyans`) haïtiens, valorisation du patrimoine oral créole, etc.)
 qui a pour objectif de mettre en valeur et rendre accessible, y compris hors ligne, la narration haïtienne sous toutes ses 
 formes (`livre`s, `contes`, `films` culturels, `musiques` narratives), au bénéfice des communautés scolaires et rurales d'Haïti, 
 en favorisant la transition linguistique `créole/français` et en renforçant l'identité culturelle de la jeunesse haïtienne.*
 
-### 📦 lbk — Lite Book Format
+### ![lbk-logo_normal.svg](lbk-logo_normal.svg) lbk — Lite Book Format
 *Format de livre léger, **déjà finalisé et actuellement utilisé en production**.
 LBK est un format de livre numérique ouvert qui fait ce qu'EPUB aurait dû faire : des fichiers plus petits, une lecture plus fluide, une intégration native de l'`IA` et du `multimédia`, et une accessibilité conçue depuis le premier jour — le tout dans un format lisible par un humain.*
 
@@ -52,7 +55,7 @@ Système de thèmes `CSS3` complet : variables, animations, polices variables, d
 (le lien vers le dépôt principal est en attente)*
 
 ---
-
+![AAC-OG_X_normal.svg](../acc-toolkit/AAC-OG_X_normal.svg)
 ## 🛠️ Stack technique
 
 **Données & BI**
