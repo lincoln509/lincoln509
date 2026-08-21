@@ -55,7 +55,7 @@ Système de thèmes `CSS3` complet : variables, animations, polices variables, d
 (le lien vers le dépôt principal est en attente)*
 
 ---
-![AAC-OG_X_normal.svg](../acc-toolkit/AAC-OG_X_normal.svg)
+
 ## 🛠️ Stack technique
 
 **Données & BI**
