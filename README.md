@@ -1,4 +1,4 @@
-# Bonjour, je suis Lincoln Compère 👋
+# Bonjour, je suis Haricot Lincoln Compère 👋
 
 **Analyste de Données | Consultant SAP | Chercheur indépendant en linguistique computationnelle (créole haïtien)**
 
@@ -31,12 +31,13 @@ graphiques du créole.
 - 📄 Zenodo (DOI) : [*`Alphabet Atomique Creole Livre - v1.2.0`*](https://doi.org/10.5281/zenodo.21540458)
 - 📄 ResearchGate : [*`Alphabet Atomique Creole Livre - v1.2.0`*](https://www.researchgate.net/publication/410865466_Pour_une_Rationalisation_Atomique_de_la_Graphie_Creole_Haitienne_-_De_la_Reforme_Orthographique_de_1979_a_l'Alphabet_Atomique_Creole_AAC?utm_source=twitter&rgutm_meta1=eHNsLTNUNndRY2grU1J4YzBqNlFnbTVIWi9xVENkMDBKbDVWMGpJd2F6dTlmZ3pKb0dTUjhKdkpJS3p2czJOYTlrNHdac2xpeUZ4WWRBaWY0MllmcnBaVStiZz0%3D)
 - 📄 HAL : *(lien en attente)*
-- 🔊 **Contribution [espeak-ng](https://github.com/espeak-ng/espeak-ng)** : refonte du dictionnaire de synthèse
+- 🔊 **Contribution [espeak-ng](https://github.com/lincoln509/espeak-ng/tree/improve-haitian-creole-v2)** : refonte du dictionnaire de synthèse
     vocale du créole haïtien (`dictsource/ht_rules`, `ht_list`) — orthographe 1979 fidèle, gestion des nasales,
-    des nombres et des emprunts.
+    des nombres et des emprunts. Ce dernier est en cours de revue sur le dépôt officiel espeak-ng : [PR #2510](https://github.com/espeak-ng/espeak-ng/pull/2510).
+    Si vous voulez testé le code dès maintenant depuis ma branche, il est dispobible [ici](https://github.com/lincoln509/espeak-ng/tree/improve-haitian-creole-v2)
 
 ### ![haiti_lodyans_normal.svg](haiti_lodyans_normal.svg) HaitiLodyans
-***c'est un projet en cours de rédaction** — corpus de contes et récits (`lodyans`) haïtiens, valorisation du patrimoine oral créole, etc.)
+***c'est un projet en cours de rédaction** — corpus de contes et récits (`lodyans` haïtiens, valorisation du patrimoine oral créole, etc.)
 qui a pour objectif de mettre en valeur et rendre accessible, y compris hors ligne, la narration haïtienne sous toutes ses 
 formes (`livre`s, `contes`, `films` culturels, `musiques` narratives), au bénéfice des communautés scolaires et rurales d'Haïti, 
 en favorisant la transition linguistique `créole/français` et en renforçant l'identité culturelle de la jeunesse haïtienne.*
@@ -66,8 +67,9 @@ Système de thèmes `CSS3` complet : variables, animations, polices variables, d
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **ERP & Intégration**
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-API REST · SOAP · SAP-PLM/PDM (PP, MM, SD)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) ·
+API REST · SOAP · SAP-PLM/PDM
+<!-- SAP - (PP, MM, SD) -->
 
 **Développement**
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -87,7 +89,7 @@ API REST · SOAP · SAP-PLM/PDM (PP, MM, SD)
 - **Power BI (60h)** — INFOTEP (2025)
 - **IBM Data Warehouse Engineer** — IBM / Coursera (2023)
 - **Badge Éthique & STICs** — Université Paris-Saclay / FUN (2023)
-- Licence en Sciences Informatiques — Université d'État d'Haïti, (CHC-UEH-L)
+- ***Licence en Sciences Informatiques*** — Université d'État d'Haïti, (CHC-UEH-L)
 
 ---
 
